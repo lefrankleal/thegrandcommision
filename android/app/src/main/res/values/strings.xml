@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">La Gran Comisión</string>
+    <string name="facebook_app_id">2329857810669588</string>
+    <string name="fb_login_protocol_scheme">fb2329857810669588</string>
+</resources>
